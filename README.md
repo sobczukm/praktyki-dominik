@@ -2,7 +2,7 @@ Hej Dominik tutaj znajdziesz opis zadania. Podstawowym użyciu z Git'a możesz p
 
 Zadanie:
 W repozytorium znajdzesz dwa pliki:
-- products.xml
+- products.xml (plik jest spakowany ponieważ nie wszedłby do repozytorium)
 - productsAllegro.csv
 
 Twoim zadaniem będzie przetworzenie tych dwóch plików w taki sposób aby powstał wynikowy plik csv w następującej postaci:
